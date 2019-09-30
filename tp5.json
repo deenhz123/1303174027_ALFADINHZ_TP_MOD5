@@ -1,0 +1,47 @@
+{
+	"home"   : {
+		"nama" : "alfadin",
+		"nim"  : "1303174027",
+		"kelas": "IT4102",
+	}
+},
+{
+	"about"  : "saya alfadin. Saya lahir di bandung 10 febuary 1999. Saya asli Indonesia. Saya suka sekali berpetualang, mencari tempat baru yang belum pernah di jelajahi sebelumnya.",
+},
+{
+	"hobbies": [
+		{
+		"1":"liat cewe",
+		"2":"main hago",
+		"3":"nonton drakor",
+		}
+	]
+},
+{
+	"skill": [
+		{
+			"1":"mancing",
+			"2":"rusher",
+			"3":"observer",
+		}
+	]
+},
+{
+	"education":[
+		{
+			"sd":"kepandean 2",
+			"smp":"ishlah bs",
+			"sma":"ishlah bs",
+			"kuliah":"tel-u",
+		}
+	]
+},
+{
+	"experience":[
+		{
+			"1":"jamnas pramuka",
+			"2":"too soon",
+			"3":"teaming solo",
+		}
+	]
+}
